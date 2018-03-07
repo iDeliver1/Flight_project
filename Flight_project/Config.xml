@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <p>
+
+    <ExcelPath>E:\Sourabh_CSharp\repo\Flight_project\Flight_project\Test_Data\Flight_data.xlsx</ExcelPath>
+    <XMLPath>E:\Sourabh_CSharp\repo\Flight_project\Flight_project\Test_Data\Flight_data.xml</XMLPath>
+
+  </p>
+</root>

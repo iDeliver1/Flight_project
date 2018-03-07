@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+  <root>
+    <p>
+      
+      <url> http://www.newtours.demoaut.com/ </url>
+      <browser>chrome</browser>
+      <username>agent</username>
+      <password>mercury</password>
+      <Source>London</Source>
+      <Destination>Paris</Destination>
+      <Passenger>2 </Passenger>
+      <Date>5-5</Date>
+      <Class>First class</Class>
+      <Fname>John</Fname>
+      <Lname>West</Lname>
+      <Food>Diabetic</Food>
+      <Card_number>1456223987</Card_number>
+
+    </p>
+  </root>
+
